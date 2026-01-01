@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+requests
+python-dotenv
+twilio
+fastapi
+uvicorn
+Faker

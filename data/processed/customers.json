@@ -1,0 +1,324 @@
+[
+  {
+    "customer_id": "c000001",
+    "name": "Brittany Hernandez",
+    "email": "brittanyhernandez39@example.com",
+    "phone": "+919876543210",
+    "age": 24,
+    "gender": "Female",
+    "location": "West Robert",
+    "income": "High",
+    "total_spent": 8675.29,
+    "avg_order_value": 2891.76,
+    "loyalty_status": "Gold",
+    "last_purchase_days": 83,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "haircare",
+        "amount": 2602.25
+      },
+      {
+        "product": "cosmetics",
+        "amount": 2142.77
+      },
+      {
+        "product": "shoes",
+        "amount": 3930.27
+      }
+    ],
+    "engagement_score": 0.33,
+    "churn": 1
+  },
+  {
+    "customer_id": "c000002",
+    "name": "Duane Hansen",
+    "email": "duanehansen24@example.com",
+    "phone": "+919029718546",
+    "age": 24,
+    "gender": "Female",
+    "location": "East Michellefurt",
+    "income": "High",
+    "total_spent": 17923.08,
+    "avg_order_value": 3584.62,
+    "loyalty_status": "Silver",
+    "last_purchase_days": 74,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "haircare",
+        "amount": 3203.17
+      },
+      {
+        "product": "clothing",
+        "amount": 3868.95
+      },
+      {
+        "product": "cosmetics",
+        "amount": 3312.76
+      },
+      {
+        "product": "clothing",
+        "amount": 3185.21
+      },
+      {
+        "product": "clothing",
+        "amount": 4352.99
+      }
+    ],
+    "engagement_score": 0.37,
+    "churn": 1
+  },
+  {
+    "customer_id": "c000003",
+    "name": "Emma Stokes",
+    "email": "emmastokes55@example.com",
+    "phone": "+919738928154",
+    "age": 53,
+    "gender": "Male",
+    "location": "Mcdonaldville",
+    "income": "Medium",
+    "total_spent": 994.48,
+    "avg_order_value": 994.48,
+    "loyalty_status": "Gold",
+    "last_purchase_days": 89,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "accessories",
+        "amount": 994.48
+      }
+    ],
+    "engagement_score": 0.24,
+    "churn": 1
+  },
+  {
+    "customer_id": "c000004",
+    "name": "Jennifer Potter",
+    "email": "jenniferpotter42@example.com",
+    "phone": "+919138220487",
+    "age": 54,
+    "gender": "Male",
+    "location": "Cliffordshire",
+    "income": "High",
+    "total_spent": 3352.03,
+    "avg_order_value": 1676.01,
+    "loyalty_status": "Silver",
+    "last_purchase_days": 33,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "accessories",
+        "amount": 745.54
+      },
+      {
+        "product": "clothing",
+        "amount": 2606.49
+      }
+    ],
+    "engagement_score": 0.39,
+    "churn": 0
+  },
+  {
+    "customer_id": "c000005",
+    "name": "Carlos Peters",
+    "email": "carlospeters22@example.com",
+    "phone": "+916064780327",
+    "age": 34,
+    "gender": "Female",
+    "location": "Rodriguezchester",
+    "income": "High",
+    "total_spent": 7050.97,
+    "avg_order_value": 3525.48,
+    "loyalty_status": "Platinum",
+    "last_purchase_days": 4,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "haircare",
+        "amount": 2115.47
+      },
+      {
+        "product": "cosmetics",
+        "amount": 4935.5
+      }
+    ],
+    "engagement_score": 0.63,
+    "churn": 0
+  },
+  {
+    "customer_id": "c000006",
+    "name": "Ian Diaz",
+    "email": "iandiaz91@example.com",
+    "phone": "+917227949002",
+    "age": 53,
+    "gender": "Male",
+    "location": "Christineberg",
+    "income": "High",
+    "total_spent": 3904.31,
+    "avg_order_value": 1952.15,
+    "loyalty_status": "Platinum",
+    "last_purchase_days": 29,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "clothing",
+        "amount": 2700.39
+      },
+      {
+        "product": "shoes",
+        "amount": 1203.92
+      }
+    ],
+    "engagement_score": 0.53,
+    "churn": 0
+  },
+  {
+    "customer_id": "c000007",
+    "name": "Joseph Hughes",
+    "email": "josephhughes30@example.com",
+    "phone": "+918417679260",
+    "age": 59,
+    "gender": "Male",
+    "location": "Corytown",
+    "income": "Medium",
+    "total_spent": 14311.31,
+    "avg_order_value": 2385.22,
+    "loyalty_status": "Silver",
+    "last_purchase_days": 59,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "haircare",
+        "amount": 1754.07
+      },
+      {
+        "product": "shoes",
+        "amount": 3469.03
+      },
+      {
+        "product": "haircare",
+        "amount": 1496.38
+      },
+      {
+        "product": "clothing",
+        "amount": 461.31
+      },
+      {
+        "product": "shoes",
+        "amount": 4318.4
+      },
+      {
+        "product": "clothing",
+        "amount": 2812.12
+      }
+    ],
+    "engagement_score": 0.41,
+    "churn": 0
+  },
+  {
+    "customer_id": "c000008",
+    "name": "Kylie Chambers",
+    "email": "kyliechambers16@example.com",
+    "phone": "+917080128357",
+    "age": 57,
+    "gender": "Female",
+    "location": "West Jessicaberg",
+    "income": "High",
+    "total_spent": 9012.85,
+    "avg_order_value": 2253.21,
+    "loyalty_status": "Gold",
+    "last_purchase_days": 92,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "shoes",
+        "amount": 286.78
+      },
+      {
+        "product": "cosmetics",
+        "amount": 4904.85
+      },
+      {
+        "product": "haircare",
+        "amount": 1517.29
+      },
+      {
+        "product": "accessories",
+        "amount": 2303.93
+      }
+    ],
+    "engagement_score": 0.31,
+    "churn": 1
+  },
+  {
+    "customer_id": "c000009",
+    "name": "David Lara",
+    "email": "davidlara75@example.com",
+    "phone": "+917308129906",
+    "age": 32,
+    "gender": "Female",
+    "location": "Lake Steven",
+    "income": "Low",
+    "total_spent": 11242.27,
+    "avg_order_value": 2248.45,
+    "loyalty_status": "Bronze",
+    "last_purchase_days": 83,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "cosmetics",
+        "amount": 4381.48
+      },
+      {
+        "product": "accessories",
+        "amount": 1566.22
+      },
+      {
+        "product": "shoes",
+        "amount": 734.13
+      },
+      {
+        "product": "accessories",
+        "amount": 2077.04
+      },
+      {
+        "product": "haircare",
+        "amount": 2483.4
+      }
+    ],
+    "engagement_score": 0.26,
+    "churn": 1
+  },
+  {
+    "customer_id": "c000010",
+    "name": "Melissa Whitehead",
+    "email": "melissawhitehead87@example.com",
+    "phone": "+919283542710",
+    "age": 47,
+    "gender": "Male",
+    "location": "Rodgersside",
+    "income": "Medium",
+    "total_spent": 10862.33,
+    "avg_order_value": 3620.78,
+    "loyalty_status": "Bronze",
+    "last_purchase_days": 1,
+    "channel_preference": "Email",
+    "recent_transactions": [
+      {
+        "product": "accessories",
+        "amount": 2622.57
+      },
+      {
+        "product": "accessories",
+        "amount": 4789.95
+      },
+      {
+        "product": "clothing",
+        "amount": 3449.81
+      }
+    ],
+    "engagement_score": 0.51,
+    "churn": 0
+  }
+]

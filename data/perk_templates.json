@@ -1,0 +1,18 @@
+{
+  "Early Access": [
+    "As a valued {loyalty_tier} member, enjoy **early access** to our upcoming {product_category} collection!",
+    "You're among the first to explore our {product_category} line — early access starts now, {loyalty_tier} star!"
+  ],
+  "VIP Preview": [
+    "You’re invited to our **VIP preview** — explore our latest {product_category} before anyone else!",
+    "A special VIP preview awaits — step into our newest {product_category} experience first!"
+  ],
+  "Bonus Points": [
+    "Earn **2x loyalty points** on your next {product_category} purchase — a thank you for being a {loyalty_tier} member!",
+    "We’re doubling your points for every {product_category} purchase this week!"
+  ],
+  "Exclusive Gift": [
+    "Receive an exclusive gift with your {product_category} order — our way of celebrating our {loyalty_tier} family!",
+    "Your loyalty deserves a little extra! Enjoy a complimentary gift with your next {product_category}."
+  ]
+}
